@@ -115,10 +115,3 @@ stun.*.cn
 stun.*.*.cn
 #Steam 国内 CDN
 alibaba.cdn.steampipe.steamcontent.com
-# Windows 时间同步
-time.windows.com
-+.time.windows.com
-time.nist.gov
-time.cloudflare.com
-time.google.com
-+.pool.ntp.org
